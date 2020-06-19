@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    font-size: 30px;
+    background-image: linear-gradient(260deg, #2376ae77 0%, #c06ecf85 100%);
+    
+    
+}

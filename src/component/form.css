@@ -1,0 +1,19 @@
+.form{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-image: linear-gradient(260deg, #2376ae86 0%, #c06ecfa9 100%);
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    border-radius: 20px;
+   
+   
+}
+
+.form button {
+    margin-top: 10px;
+
+}
